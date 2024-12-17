@@ -1,0 +1,7 @@
+div.header {
+    display: flex;
+}
+
+div.header>img.LogoTxt {
+    width: 210px;
+}
